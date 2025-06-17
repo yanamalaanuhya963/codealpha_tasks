@@ -1,0 +1,6 @@
+admin@website.com
+hello@website.com
+info@example.com
+jane.doe123@company.co.uk
+mike_2021@dev.net
+support@example.org
